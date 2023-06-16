@@ -1,0 +1,22 @@
+Sombrero Galaxy NOTES:
+
+In the next files, the transform was not found for any of the handling exceptions methods:
+
+ - 145.fit
+ - 146.fit
+ - 151NoAutoDark.fit
+ - 152.fit 
+	These images are too bright for a transformation to be found between them. Nonetheless, 151.fit did work.
+ - 159.fit
+ - 160.fit
+ - There is no other fit file to process against 163.fit
+
+For this ones, another alignment method is needed to perform the motion detection, perhaps I could implement the library KBMOD as a short answer without having to align the
+images, or find a different method that does not require an applied transform.
+
+DATA found:
+
+ - Between 157.fit and 158.fit a streak might have been detected. I am yet unclear of its nature and the certainty of my interpretation of the result.
+
+NEW DATA NOTES:
+

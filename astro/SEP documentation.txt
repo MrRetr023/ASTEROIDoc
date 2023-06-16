@@ -1,0 +1,13 @@
+Source extractor documentation. NOTES.
+
+ -The source extractor will be used to detect objects within the picture. This works better 
+  after having subtracted the background of the images, as we do not want much noise in the images when
+  trying to detect objects. 
+ -Two methods will be attempted to try and identify more efficiency. First, the original functions of the SEP 
+  library will be used, such as sep.extract(), len(objects). Furthermore, I will attempt to use a matched filter
+  (convolution) to display what provides better results for object detection. I will use a default kernel size.
+  I will attempt to apply a matched filter and then display both results to see which ones detect more objects
+  and then evaluate the quality of the detection in regards to the noise of the images. 
+ -Feel free to check the math of the derivation of the matched filter formula for the second method of th last point.
+ -We can also apply an aperture photometry at last to evaluate the results. 
+ 

@@ -1,0 +1,18 @@
+calcular la velocidad a traes de los datos de las imagenes para revelar si podria ser un asteroide. A traves de los datos de astropy. Ver los headers para calcular la diferencia de tiempo entre las imagenes para una correlacion entre los objetos para calcular la velocidad.. calcular el tamaño de cada pixel en el cielo, puede calcular en arcseconds al analizar el movimiento y cuanto se movio
+
+
+busca como eliminar las lineas de las imagenes 
+
+identificar los objetos en las images
+
+intentar cuantificar los resultados del movimiento
+
+usar imagenes donde el resultado es preprocesado.
+
+que objetos son y cuanta distancia esta, compara el tiempo de las imagenes.
+
+poner la escala de los ejes en coordenadas celestiales para identificar 
+
+extraer los datos de la imagen.
+
+crear imagenes para entrenar el programa.

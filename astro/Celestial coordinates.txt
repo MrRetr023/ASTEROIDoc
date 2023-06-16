@@ -1,0 +1,8 @@
+From pixel value coordinates to celestial coordinates. 
+
+ -I need to do more research on this but I believe that we should transform the images to celestial
+  coordinates. This is a possible different way to determine movement as we can compare the coordinates
+  of the detected objects.
+ -https://joseph-long.com/writing/from-sky-coordinates-to-pixels-and-back/ 
+	 -I have not read the whole documentation but this will be using matplotlib to take the celestial
+	  coordinates of the FIT files.

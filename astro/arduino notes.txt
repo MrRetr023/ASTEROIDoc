@@ -1,0 +1,5 @@
+Arduino notes:
+
+	- digitalWrite tells what to do to the components of the board.
+	- Breadboard.
+		- 
